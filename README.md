@@ -37,3 +37,5 @@
     - Filtering todos: Was implemented by status (All/Active/Completed).
 
 > [DEMO LINK](https://Vitalii-Belostotskiy.github.io/react-todo-app/)
+
+> [CODE LINK](https://github.com/Vitalii-Belostotskiy/react-todo-app)
