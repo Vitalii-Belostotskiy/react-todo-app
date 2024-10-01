@@ -36,4 +36,4 @@
     - Save todos: Was implemented by localStorage using JSON.stringify after each change.
     - Filtering todos: Was implemented by status (All/Active/Completed).
 
-> [DEMO LINK](https://Vitalii-Belostotskiy.github.io/react_todo-app/)
+> [DEMO LINK](https://Vitalii-Belostotskiy.github.io/react-todo-app/)
