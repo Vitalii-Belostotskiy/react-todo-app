@@ -1,4 +1,4 @@
-# ToDo App
+# GoalGetter
 
 > A brief description of the project:
    - This is a simple ToDo application that allows you to manage your day plan. Create tasks for yourself, complete them, and give them the completed status. 
